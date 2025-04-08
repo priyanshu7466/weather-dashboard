@@ -30,5 +30,4 @@ function SearchBar({ onSearch }) {
     </div>
   );
 }
-
 export default SearchBar;

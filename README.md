@@ -11,12 +11,15 @@ A weather dashboard web app built in React that fetches current weather informat
 
 ## Setup Instructions
 1. Clone the repository:
-     git clone https://github.com/yourusername/weather-dashboard.git
-2. Install dependencies:
-     npm install
-3. Create a file src/config.js and add API key:
+
+        git clone https://github.com/yourusername/weather-dashboard.git
+3. Install dependencies:
+
+        npm install
+4. Create a file src/config.js and add API key:
    
         export const API_KEY = "YOUR_API_KEY";
         export const BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 5. Run the project:
-     npm start
+
+        npm start
